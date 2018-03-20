@@ -1,0 +1,6 @@
+K:\LoginServer\LoginServer\bin\Release\LoginServer.exe.config
+K:\LoginServer\LoginServer\bin\Release\LoginServer.exe
+K:\LoginServer\LoginServer\bin\Release\LoginServer.pdb
+K:\LoginServer\LoginServer\obj\Release\LoginServer.csprojResolveAssemblyReference.cache
+K:\LoginServer\LoginServer\obj\Release\LoginServer.exe
+K:\LoginServer\LoginServer\obj\Release\LoginServer.pdb
